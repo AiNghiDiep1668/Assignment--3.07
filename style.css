@@ -1,13 +1,13 @@
 #myName{
-    color:#9A3B3B;
+    color:#c47c7e;
 }
 #context{
-    color:#C08261;
+    color:#a77879;
     margin: 35px;
 
 }
 #fun_fact{
-    color:#C08261;
+    color:#a77879;
     margin: 35px;
 
 }
@@ -17,8 +17,31 @@
 
 }
 #role{
-    color:#8a5d45;
+    color:#e89295;
 }
 body{
-    background-color: #F2ECBE;
+    background-color: #f5dadb;
+}
+#whole_intro{
+    position:static;
+    margin-left: 450px;
+    margin-top:-250px;
+}
+#whole_fun{
+    position:static;
+    margin-left: -150px;
+    margin-top:-2px;
+} 
+#intro_fun{
+    color: #e89295;
+    position:static;    
+    margin-left: 140px;
+    margin-top:30px;
+    font-size:large;
+}
+
+#profile_pic{
+    position:static;
+    margin-left: 30px;
+    margin-top:-2px;
 }
